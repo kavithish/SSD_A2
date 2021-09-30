@@ -1,0 +1,7 @@
+.homePageOptionWrapper {
+    position: absolute;
+    top:27rem;
+    left:52%;
+    transform: translate(-50% , -50%);
+    width: 700px;
+}
